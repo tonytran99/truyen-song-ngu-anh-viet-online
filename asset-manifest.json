@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/truyen-song-ngu-anh-viet-online/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/truyen-song-ngu-anh-viet-online/static/js/main.00dbca59.chunk.js",
+    "main.js.map": "/truyen-song-ngu-anh-viet-online/static/js/main.00dbca59.chunk.js.map",
+    "runtime-main.js": "/truyen-song-ngu-anh-viet-online/static/js/runtime-main.2fc41477.js",
+    "runtime-main.js.map": "/truyen-song-ngu-anh-viet-online/static/js/runtime-main.2fc41477.js.map",
+    "static/css/2.ffda3d49.chunk.css": "/truyen-song-ngu-anh-viet-online/static/css/2.ffda3d49.chunk.css",
+    "static/js/2.8401ec10.chunk.js": "/truyen-song-ngu-anh-viet-online/static/js/2.8401ec10.chunk.js",
+    "static/js/2.8401ec10.chunk.js.map": "/truyen-song-ngu-anh-viet-online/static/js/2.8401ec10.chunk.js.map",
+    "static/js/3.0d23f413.chunk.js": "/truyen-song-ngu-anh-viet-online/static/js/3.0d23f413.chunk.js",
+    "static/js/3.0d23f413.chunk.js.map": "/truyen-song-ngu-anh-viet-online/static/js/3.0d23f413.chunk.js.map",
+    "index.html": "/truyen-song-ngu-anh-viet-online/index.html",
+    "static/css/2.ffda3d49.chunk.css.map": "/truyen-song-ngu-anh-viet-online/static/css/2.ffda3d49.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/truyen-song-ngu-anh-viet-online/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8401ec10.chunk.js.LICENSE.txt": "/truyen-song-ngu-anh-viet-online/static/js/2.8401ec10.chunk.js.LICENSE.txt",
+    "static/media/add.92050ab3.svg": "/truyen-song-ngu-anh-viet-online/static/media/add.92050ab3.svg",
+    "static/media/arrow_bottom.37067889.svg": "/truyen-song-ngu-anh-viet-online/static/media/arrow_bottom.37067889.svg",
+    "static/media/camera.8f514bd4.svg": "/truyen-song-ngu-anh-viet-online/static/media/camera.8f514bd4.svg",
+    "static/media/delete.630e648b.svg": "/truyen-song-ngu-anh-viet-online/static/media/delete.630e648b.svg",
+    "static/media/edit.0cc326da.svg": "/truyen-song-ngu-anh-viet-online/static/media/edit.0cc326da.svg",
+    "static/media/eye.5e612a27.svg": "/truyen-song-ngu-anh-viet-online/static/media/eye.5e612a27.svg",
+    "static/media/login_background.cb12d9a3.jpg": "/truyen-song-ngu-anh-viet-online/static/media/login_background.cb12d9a3.jpg",
+    "static/media/logout.d56484bf.svg": "/truyen-song-ngu-anh-viet-online/static/media/logout.d56484bf.svg",
+    "static/media/pause.2b23119b.svg": "/truyen-song-ngu-anh-viet-online/static/media/pause.2b23119b.svg",
+    "static/media/photo.e39f0d0b.svg": "/truyen-song-ngu-anh-viet-online/static/media/photo.e39f0d0b.svg",
+    "static/media/play.46e5075c.svg": "/truyen-song-ngu-anh-viet-online/static/media/play.46e5075c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc41477.js",
+    "static/css/2.ffda3d49.chunk.css",
+    "static/js/2.8401ec10.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.00dbca59.chunk.js"
+  ]
+}

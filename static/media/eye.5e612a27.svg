@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__eye" width="18.227" height="11.053" viewBox="0 0 18.227 11.053">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__Groupe_6204" data-name="Groupe 6204">
+        <g id="prefix__Groupe_6203" data-name="Groupe 6203">
+            <path id="prefix__Tracé_2885" d="M18.079 101.521c-2.753-3.385-5.726-5.1-8.843-5.1a9.269 9.269 0 0 0-3.72.815 13.03 13.03 0 0 0-2.861 1.76 14.917 14.917 0 0 0-2.526 2.556.676.676 0 0 0 .019.818c2.749 3.389 5.726 5.1 8.843 5.1a9.269 9.269 0 0 0 3.72-.815 13.03 13.03 0 0 0 2.861-1.76 14.916 14.916 0 0 0 2.528-2.555.676.676 0 0 0-.021-.819zm-3.374 2.351a9.472 9.472 0 0 1-5.714 2.258c-2.571 0-5.078-1.41-7.459-4.193a14.719 14.719 0 0 1 1.987-1.92 9.472 9.472 0 0 1 5.713-2.257c2.571 0 5.078 1.41 7.459 4.193a14.494 14.494 0 0 1-1.986 1.92z" class="prefix__cls-1" data-name="Tracé 2885" transform="translate(0 -96.417)"/>
+        </g>
+    </g>
+    <g id="prefix__Groupe_6206" data-name="Groupe 6206" transform="translate(5.97 2.388)">
+        <g id="prefix__Groupe_6205" data-name="Groupe 6205">
+            <path id="prefix__Tracé_2886" d="M166.077 163.087a.672.672 0 0 0-.67.67 1.8 1.8 0 1 1-1.8-1.8.67.67 0 1 0 0-1.339 3.14 3.14 0 1 0 3.14 3.14.672.672 0 0 0-.67-.671z" class="prefix__cls-1" data-name="Tracé 2886" transform="translate(-160.467 -160.617)"/>
+        </g>
+    </g>
+</svg>
